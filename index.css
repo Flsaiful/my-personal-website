@@ -1,1 +1,21 @@
-body{background-color: rebeccapurple;}
+*{margin: 0px;
+padding: 0px;}
+
+
+body{font-family: 'Montserrat', sans-serif;
+}
+
+.frist-half{width: 40%;
+float: left;
+margin-left: 20px;
+padding: 20px;
+}
+
+.frist-half img{width: 80%;
+}
+
+
+.top-banner{
+height: 600px;
+background-image: url(image/top-banner.png);
+background-repeat: no-repeat;}
